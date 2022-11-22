@@ -1,4 +1,4 @@
-<h1> Olá, sou Yann Silva - Desenvolvedor front-end e UI Design 👋</h1>
+<h1> Olá, sou Yann Silva - Desenvolvedor front-end e UI Designer 👋</h1>
 <hr>
 
 
