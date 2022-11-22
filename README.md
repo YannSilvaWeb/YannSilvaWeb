@@ -9,8 +9,8 @@
 </div>  -->
 
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
   <div align="center" style="display: inline_block">
