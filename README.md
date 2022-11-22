@@ -1,8 +1,16 @@
 <h1> Olá, sou Yann Silva - Desenvolvedor front-end e UI Design 👋</h1>
 <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- <div>
+  <a href="https://github.com/YannSilvaWeb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&layout=compact&langs_count=7&theme=algolia"/>
+</div>  -->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
 
   <div align="center" style="display: inline_block">
     <h4>Habilidades:</h4>
