@@ -16,7 +16,7 @@ Estou em contínuo aprendizado, sempre buscando me manter atualizado das novidad
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia"/>
-<img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
  ##
