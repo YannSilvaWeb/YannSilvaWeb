@@ -1,9 +1,9 @@
 <h1> Olá, sou Yann Silva 👋</h1>
 <p> Desenvolvedor front-end</p>
-<p>Tenho o objetivo profissional de atuar no desenvolvimento Front-end e Busco oportunidade 
+<!-- <p>Tenho o objetivo profissional de atuar no desenvolvimento Front-end e Busco oportunidade 
 que permita o desenvolvimento dos meus conhecimentos técnicos assim podendo contribuir e crescer junto com a empresa e com meus colegas de trabalho.</p>
 
-Estou em contínuo aprendizado, sempre buscando me manter atualizado das novidades do mercado e adquirindo novas habilidades para ter um crescimento profissional e Pessoal.
+Estou em contínuo aprendizado, sempre buscando me manter atualizado das novidades do mercado e adquirindo novas habilidades para ter um crescimento profissional e Pessoal. -->
 
 
 <hr>
