@@ -1,21 +1,27 @@
-<h1> Olá, sou Yann Silva - Desenvolvedor front-end e UI Designer 👋</h1>
-<hr>
+<h1> Olá, sou Yann Silva 👋</h1>
+<p> Desenvolvedor front-end</p>
+<p>Tenho o objetivo profissional de atuar no desenvolvimento Front-end e Busco oportunidade 
+que permita o desenvolvimento dos meus conhecimentos técnicos assim podendo contribuir e crescer junto com a empresa e com meus colegas de trabalho.</p>
 
+Estou em contínuo aprendizado, sempre buscando me manter atualizado das novidades do mercado e adquirindo novas habilidades para ter um crescimento profissional e Pessoal.
+
+
+<hr>
 
 <!-- <div>
   <a href="https://github.com/YannSilvaWeb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&layout=compact&langs_count=7&theme=algolia"/>
 </div>  -->
 
 <div>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia"/>
-<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannSilvaWeb&show_icons=true&theme=algolia"/>
+<img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannSilvaWeb&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
  ##
 
-  <div style="display: inline_block">
+  <div align="center" style="display: inline_block">
     <h4>Habilidades:</h4>
       <img align="center" alt="dias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="dias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,7 +29,7 @@
       <img align="center" alt="dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   </div>
   
-  <div style="display: inline_block">
+  <div align="center" style="display: inline_block">
     <h4>Ferramentas:</h4>
       <img align="center" alt="dias-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="dias-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
